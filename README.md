@@ -1,2 +1,3 @@
-# swarovskaya7787.github.io
+
+~$cd swarovskaya7787.github.io
 ~$echo "Hello World" > index.html
