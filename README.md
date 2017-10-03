@@ -1,2 +1,4 @@
-~$ cd username.github.io
-~$ echo "очень сложная история" > index.html
+
+Swarovskaya7787
+
+sax7787@gmail.com
